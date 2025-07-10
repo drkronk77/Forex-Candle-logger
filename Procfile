@@ -1,1 +1,1 @@
-worker: python railway_candle_logger.py
+# worker: python railway_candle_logger.py
